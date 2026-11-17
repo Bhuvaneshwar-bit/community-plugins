@@ -1,5 +1,12 @@
 # @backstage-community/plugin-ocm
 
+## 5.22.1
+
+### Patch Changes
+
+- bc5be3f: Updated dependency `@testing-library/user-event` to `14.6.9`.
+  - @backstage-community/plugin-ocm-common@5.22.1
+
 ## 5.22.0
 
 ### Minor Changes
